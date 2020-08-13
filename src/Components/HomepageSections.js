@@ -41,18 +41,19 @@ const HomepageSections = () => {
                                 })}
                             </GridContainer>
                         }
+                        <hr></hr>
                         
                         
                     </Section>
                 )
                     })}
 
-                <hr></hr>
-                <PullQuote>
+                
+                {/* <PullQuote>
                     <RichText content={data.fields.pullQuote} />
 
                 <hr></hr>
-                </PullQuote>
+                </PullQuote> */}
 
             </BodyText>
         )

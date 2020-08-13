@@ -5,7 +5,7 @@ export const LayoutWrapper = styled.div`
     padding: 4rem;
     max-width: 1200px;
     margin: 0 auto;
-    background-color: lightgray;
+    background-color: whitesmoke;
 `;
 
 export const FooterWrapper = styled.footer`
@@ -14,6 +14,7 @@ export const FooterWrapper = styled.footer`
         margin: .5rem 0;
         a {
             color: black;
+            font-family: 'Nixie One', cursive;
             font-weight: bolder;
             text-decoration: none;
             transition: opacity 250ms ease;
