@@ -11,7 +11,6 @@ const Footer = (props) => {
          
           <div>
           <a href={props.data.fields.github} target="_blank" rel="noopener noreferrer">Github |</a>
-          <a href={props.data.fields.instagram} target="_blank" rel="noopener noreferrer">Instagram | </a>
           <a href={props.data.fields.linkedIn} target="_blank" rel="noopener noreferrer">LinkedIn </a>
           </div>
           </FooterWrapper>
